@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `id6650048_tiket_travel`
+-- Database: `tiket_travel`
 --
 
 -- --------------------------------------------------------
